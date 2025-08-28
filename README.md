@@ -47,6 +47,7 @@ Estas são as principais tecnologias com as quais trabalho atualmente:
 
 <a href="mailto:henriquegomezpereira@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="seu-email" /></a>
 
+<a href="https://www.instagram.com/henriqueg.gomez" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="henriqueg.gomez" />
-  </a>
+</a>
 </p>
